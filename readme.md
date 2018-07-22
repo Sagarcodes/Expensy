@@ -1,1 +1,1 @@
-#Expensy - Expense Manager
+# Expensy - Expense Manager
