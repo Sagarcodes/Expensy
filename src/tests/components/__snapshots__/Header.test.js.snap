@@ -3,7 +3,7 @@
 exports[`should render Header component correctly 1`] = `
 <div>
   <h2>
-    Expensify
+    Expensy
   </h2>
   <NavLink
     activeClassName="is-active"
